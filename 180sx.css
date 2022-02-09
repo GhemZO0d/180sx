@@ -37,8 +37,45 @@ p{
 main{
 	text-align: center;
 	padding: 10px 15px 15px 15px;
+
 }
 
 main img{
+
 	width: 400px;
 }
+
+h2{
+	background-color: grey;
+}
+
+footer{
+   background-color: grey;
+}
+
+footer {
+	text-align: left;
+	font-size: 15px;
+}
+
+footer a{
+	color: white;
+}
+
+h4{
+	background-color: grey;
+	font-size: 30px;
+}
+
+h3{
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
